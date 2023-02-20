@@ -1,9 +1,9 @@
-# Chicago ARTCC Roster Sync
+# Fort Worth ARTCC Roster Sync
 Separate microservice that updates the roster database per VATUSA API. 
 
 # License
 
-The Chicago ARTCC website is hereby released under the Creative Commons CC BY-NC-SA 4.0 license. Please ensure you are familiar with the license before contributing to this project. A couple of key takeaways:
+The Fort Worth ARTCC website is hereby released under the Creative Commons CC BY-NC-SA 4.0 license. Please ensure you are familiar with the license before contributing to this project. A couple of key takeaways:
 
 If you choose to share or alter this project, you MUST give credit to the contributors of this project.
 You may NOT use any of this project for commercial purposes.
